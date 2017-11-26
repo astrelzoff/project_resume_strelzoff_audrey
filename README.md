@@ -31,6 +31,15 @@
 * [jQuery](https://jquery.com/download/)
     - Downloaded the 3.2.1 minified version of jQuery
 
+* [Tutorialzine.com](https://tutorialzine.com/2013/04/50-amazing-jquery-plugins)
+    - List of jQuery plug-ins
+
+* [GitHub Sticky Plug-in](https://github.com/garand/sticky)
+
+* [GitHub Tooltipster Plug-in](https://github.com/iamceege/tooltipster)
+
+
+
 ## 3. Deductions
 *
 
