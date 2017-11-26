@@ -25,6 +25,9 @@
 * [Google Fonts](https://fonts.google.com/specimen/Caveat?selection.family=Caveat|Open+Sans)
     - Selected fonts for header and body
 
+* [Pixabay](https://pixabay.com/en/len-fabric-texture-textiles-2918844/)
+    - Body background image
+
 ## 3. Deductions
 *
 
