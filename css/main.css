@@ -29,10 +29,19 @@ h1 {
     font-size: 2.75rem;
 }
 
-header {
+header,
+footer {
     text-align: center;
 }
 
 ul {
     list-style-type: none;
+}
+
+main section ul li {
+    margin-left: 2rem;
+}
+
+main section ul li.flushleft {
+    margin-left: 0;
 }
