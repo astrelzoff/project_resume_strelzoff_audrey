@@ -28,6 +28,10 @@ h1 {
     font-size: 2.75rem;
 }
 
+h4 {
+    font-family: 'Caveat', cursive, Verdana;
+}
+
 .container {
     width: 90%;
     margin: 5%;
@@ -49,6 +53,10 @@ footer ul {
 /* Remove bullets from unordered lists */
 ul {
     list-style-type: none;
+}
+
+section {
+    padding-bottom: 3%;
 }
 
 main section ul {
@@ -111,6 +119,27 @@ aside figure img {
     aside {
         width: 40%;
     }
+}
 
+/* **************MEDIA QUERY FOR BROWSERS LARGER THAN 600PX*************** */
+@media  print {
 
+    main,
+    aside {
+        width: 100%;
+    }
+
+    section:first-of-type {
+        display: inline-block;
+        width: 60%;
+    }
+
+    aside section#works {
+        display: none;
+    }
+
+    main figure {
+        display: inline-block;
+        width: 25%;
+    }
 }
