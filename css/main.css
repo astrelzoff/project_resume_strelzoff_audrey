@@ -78,3 +78,7 @@ main figure figcaption {
     line-height: 0;
     color: rgba(251, 251, 251, 0);
 }
+
+aside ul {
+    padding-left: 1.75rem;
+}
