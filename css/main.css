@@ -21,6 +21,8 @@ body {
 .container {
     width: 90%;
     margin: 5%;
+    background-color: rgba(251, 251, 251, 0.9);
+    padding: 2% 2.5%;
 }
 
 h1,
@@ -37,6 +39,10 @@ h1 {
 header,
 footer {
     text-align: center;
+}
+
+footer ul {
+    padding: 0;
 }
 
 /* Remove bullets from unordered lists */
