@@ -10,7 +10,7 @@ $(document).ready(function () {
         $(this).closest('img').removeClass('jazzy');
     });
     //call sticky plug-in
-    $('#sticker').sticky({topSpacing: 0}).css('background-color', 'white');
+    $('#sticker').sticky({topSpacing: 0});
     //call Tooltipster plug-in
     $('.tooltip').tooltipster();
 });
