@@ -88,7 +88,8 @@ main figure img {
     width: 100%;
 }
 
-figure figcaption {
+figure figcaption,
+.hidden {
     font-size: 0;
     line-height: 0;
     color: rgba(251, 251, 251, 0);

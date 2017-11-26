@@ -12,5 +12,7 @@ $(document).ready(function () {
     //call sticky plug-in
     $('#sticker').sticky({topSpacing: 0});
     //call Tooltipster plug-in
-    $('.tooltip').tooltipster();
+    $('.tooltip').tooltipster({
+        theme: 'tooltipster-noir'
+    });
 });

@@ -4,11 +4,11 @@
 
 * [Github link]()
 
-* [Web Host link]()
+* [Web Host link](http://www.strelzoffs.com/project_resume_strelzoff_audrey/)
 
 * [W3C Validator link]()
 
-* [HTML5 Outliner link]()
+* [HTML5 Outliner link](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.strelzoffs.com%2Fproject_resume_strelzoff_audrey%2F)
 
 
 ## 2. Resources
