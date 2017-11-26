@@ -28,6 +28,9 @@
 * [Pixabay](https://pixabay.com/en/len-fabric-texture-textiles-2918844/)
     - Body background image
 
+* [jQuery](https://jquery.com/download/)
+    - Downloaded the 3.2.1 minified version of jQuery
+
 ## 3. Deductions
 *
 
