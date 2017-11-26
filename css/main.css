@@ -79,6 +79,12 @@ main figure figcaption {
     color: rgba(251, 251, 251, 0);
 }
 
+aside {
+    background-color: rgba(51, 0, 51, 0.8);
+    color: white;
+    padding: 1% 2%;
+}
+
 aside ul {
     padding-left: 1.75rem;
 }
