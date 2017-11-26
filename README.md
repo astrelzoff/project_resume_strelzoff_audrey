@@ -19,6 +19,11 @@
 
 * I also used all of the notes from Richard's videos
 
+* [Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+    - Selected back-up fonts
+
+* [Google Fonts](https://fonts.google.com/specimen/Caveat?selection.family=Caveat|Open+Sans)
+    - Selected fonts for header and body
 
 ## 3. Deductions
 *

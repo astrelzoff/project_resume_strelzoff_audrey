@@ -15,8 +15,11 @@ body {
     color: #330033;
     font-size: 1rem;
     line-height: 1.4rem;
+}
+
+.container {
     width: 90%;
-    margin: auto;
+    margin: 5%;
 }
 
 h1,
@@ -29,15 +32,18 @@ h1 {
     font-size: 2.75rem;
 }
 
+/* Center header and footer */
 header,
 footer {
     text-align: center;
 }
 
+/* Remove bullets from unordered lists */
 ul {
     list-style-type: none;
 }
 
+/* Indent list items for experience and education */
 main section ul li {
     margin-left: 2rem;
 }
