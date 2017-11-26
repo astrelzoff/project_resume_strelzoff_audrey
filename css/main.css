@@ -18,13 +18,6 @@ body {
     background: #fffade url(../img/linen-1.png) repeat;
 }
 
-.container {
-    width: 90%;
-    margin: 5%;
-    background-color: rgba(251, 251, 251, 0.9);
-    padding: 2% 2.5%;
-}
-
 h1,
 h2 {
     font-family: 'Caveat', cursive, Verdana;
@@ -35,12 +28,20 @@ h1 {
     font-size: 2.75rem;
 }
 
+.container {
+    width: 90%;
+    margin: 5%;
+    background-color: rgba(251, 251, 251, 0.9);
+    padding: 2% 2.5%;
+}
+
 /* Center header and footer */
 header,
 footer {
     text-align: center;
 }
 
+header ul,
 footer ul {
     padding: 0;
 }
@@ -57,4 +58,19 @@ main section ul li {
 
 main section ul li.flushleft {
     margin-left: 0;
+}
+
+main figure {
+    width: 50%;
+}
+
+main figure img {
+    display: block;
+    width: 100%;
+}
+
+main figure figcaption {
+    font-size: 0;
+    line-height: 0;
+    color: rgba(251, 251, 251, 0);
 }
