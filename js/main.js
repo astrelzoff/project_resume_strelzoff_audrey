@@ -11,4 +11,6 @@ $(document).ready(function () {
     });
     //call sticky plug-in
     $('#sticker').sticky({topSpacing: 0}).css('background-color', 'white');
+    //call Tooltipster plug-in
+    $('.tooltip').tooltipster();
 });
