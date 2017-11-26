@@ -82,3 +82,22 @@ main figure figcaption {
 aside ul {
     padding-left: 1.75rem;
 }
+
+/* **************MEDIA QUERY FOR BROWSERS LARGER THAN 600PX*************** */
+@media all and (min-width: 600px) {
+
+    main,
+    aside {
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    main {
+        width: 58%;
+        padding-right: 2%;
+    }
+
+    aside {
+        width: 40%;
+    }
+}
