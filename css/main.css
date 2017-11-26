@@ -48,6 +48,7 @@ footer {
 header ul,
 footer ul {
     padding: 0;
+    margin: 0;
 }
 
 /* Remove bullets from unordered lists */
@@ -100,6 +101,10 @@ aside ul {
 aside figure img {
     display: block;
     width: 100%;
+}
+
+.jazzy {
+    box-shadow: 0.5px 2px 5px 5px #330033;
 }
 
 /* **************MEDIA QUERY FOR BROWSERS LARGER THAN 600PX*************** */
