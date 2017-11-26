@@ -51,9 +51,13 @@ ul {
     list-style-type: none;
 }
 
+main section ul {
+    padding-left: 0.5rem;
+}
+
 /* Indent list items for experience and education */
 main section ul li {
-    margin-left: 2rem;
+    margin-left: 1.25rem;
 }
 
 main section ul li.flushleft {
