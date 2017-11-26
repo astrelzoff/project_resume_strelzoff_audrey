@@ -32,6 +32,7 @@ h4 {
     font-family: 'Caveat', cursive, Verdana;
 }
 
+/* Give container a transparent background of white and slim margin */
 .container {
     width: 90%;
     margin: 5%;
@@ -88,6 +89,7 @@ main figure img {
     width: 100%;
 }
 
+/* Hide figcaptions and other unwanted visual text */
 figure figcaption,
 .hidden {
     font-size: 0;
@@ -95,6 +97,7 @@ figure figcaption,
     color: rgba(251, 251, 251, 0);
 }
 
+/* Style aside */
 aside {
     background-color: rgba(51, 0, 51, 0.8);
     color: white;
@@ -112,6 +115,7 @@ aside figure img {
     background-color: white;
 }
 
+/* Style that will be added through custom jquery */
 .jazzy {
     box-shadow: 0.5px 2px 5px 5px #330033;
 }
@@ -135,7 +139,7 @@ aside figure img {
     }
 }
 
-/* **************MEDIA QUERY FOR BROWSERS LARGER THAN 600PX*************** */
+/* **************MEDIA QUERY FOR Printing this document*************** */
 @media  print {
 
     main,
