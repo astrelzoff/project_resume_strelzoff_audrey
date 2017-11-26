@@ -107,6 +107,7 @@ aside ul {
 aside figure img {
     display: block;
     width: 100%;
+    background-color: white;
 }
 
 .jazzy {
