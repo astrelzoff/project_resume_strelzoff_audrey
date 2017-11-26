@@ -1,0 +1,28 @@
+/* Set all box-sizing to border-box */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+/* Set fonts for body and headers */
+body {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    color: #330033;
+    font-size: 1rem;
+    line-height: 1.4rem;
+}
+
+h1,
+h2 {
+    font-family: 'Caveat', cursive, Verdana;
+    color: #330033;
+}
+
+h1 {
+    font-size: 2.75rem;
+}
