@@ -83,6 +83,11 @@ aside ul {
     padding-left: 1.75rem;
 }
 
+aside figure img {
+    display: block;
+    width: 100%;
+}
+
 /* **************MEDIA QUERY FOR BROWSERS LARGER THAN 600PX*************** */
 @media all and (min-width: 600px) {
 
@@ -100,4 +105,6 @@ aside ul {
     aside {
         width: 40%;
     }
+
+
 }
